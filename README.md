@@ -54,4 +54,5 @@ The evaluation focused on generation time and output quality.
 
 ## Project Screenshots
 
-Screenshots will be added here.
+### Chat Recommendation
+![Chat](screenshots/chat-1.png)(screenshots/chat-2.png)
