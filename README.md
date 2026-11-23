@@ -37,22 +37,15 @@ Users can save their preferred makeup looks and products.
 
 AI-assisted code generation was used during development.
 
-## Testing and Evaluation
-
-### Functional Testing
-Tested website features to check whether they operated as expected.
-
-### Image Generation Testing
-Evaluated AI-generated makeup results using images captured from different facial angles:
-
-- 0 degrees (Front)
-- 30 degrees
-- 60 degrees
-- 90 degrees
-
-The evaluation focused on generation time and output quality.
-
 ## Project Screenshots
 
 ### Chat Recommendation
 ![Chat](screenshots/chat.png)
+
+### Facial Analysis
+![Facial Analysis](screenshots/face1.png)
+
+![Facial Analysis](screenshots/face2.png)
+
+### AI Makeup Preview
+![Makeup Preview](screenshots/preview.png)
